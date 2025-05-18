@@ -2,6 +2,7 @@
 This helps farmers pick the best crop &amp; fertilizer needs using soil nutrients, temp, humidity, pH, &amp; rainfall. Input land conditions to get crop suggestions like “Rice is best.” Saves learning for future use to optimize planting.
 
 **Variable Details:**
+
 Dataset consists of 8 variables where 7 variables are considered for predicting output variable. The details of Variable is given Below
 
 N (Nitrogen) : Nitrogen content in the soil. Nitrogen is really important for plant growth (structure), plant food processing (metabolism), and the creation of chlorophyll. Without enough nitrogen in the plant, the plant cannot grow taller, or produce enough food (usually yellow).
@@ -15,6 +16,7 @@ Label : This is the output variable which contains 22 unique values i.e., 22 dif
 Exploratory data analysis carried out to fetch insights from the data.
 
 **Algorithm :**
+
 Only three algorithms are used to predict the output. They are Logistic Regression, XGBoost and Random Forest.\
 
 Accuracy of the model using Logistic Regression is 95%.
