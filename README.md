@@ -15,11 +15,3 @@ Rain fall : Rainfall in mm. Plants use the moisture in the soil to replenish the
 Label : This is the output variable which contains 22 unique values i.e., 22 different crops and they are ['Apple','Banana','blackgram','chickpea','coconut','coffee','cotton','grapes','jute','kidney beans','lentil','maize','mango','moth beans','mung bean','muskmelon','orange','papaya','pigeonpeas','pomegranate','Rice','Watermelon']
 Exploratory data analysis carried out to fetch insights from the data.
 
-**Algorithm :**
-
-Only three algorithms are used to predict the output. They are Logistic Regression, XGBoost and Random Forest.\
-
-Accuracy of the model using Logistic Regression is 95%.
-Accuracy of the model using Random Forest Classifier is 99%.
-Accuracy of the model using XGBoost Classifier is 99%.
-Random Forest Classifier is used for development of model.
